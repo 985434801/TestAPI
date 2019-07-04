@@ -1,0 +1,1 @@
+{"domains":[{"api_domain":"https://www.qloiwuds.com","created_at":"2019-07-04 13:01:40","domain":"www.qloiwuds.com","id":2,"protocol":"https://","status":"1","updated_at":"2019-06-04 13:11:14"},{"api_domain":"https://www.ie0tnnmo.com","created_at":"2019-07-04 14:49:49","domain":"www.ie0tnnmo.com","id":1,"protocol":"https://","status":"1","updated_at":"2019-07-04 13:10:45"}]}
