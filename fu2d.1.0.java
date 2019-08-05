@@ -1,13 +1,5 @@
 {
     "ret": 200, 
-    "data": {
-        "code": 0, 
-        "msg": "", 
-        "info": [
-            {
-                "data": "Omn3CKSTRJ3TD5DdGAyaGPS/ABJj1VswjIBEdw0wT/rHWKGNpBEmMvDRSzXVVExt6mZEkJlG1aaNyzFhej0ri5fIigydJIU6jzM2kN0LKd19D76VbMQVLjkn/YDIoH0UUH+HjLLQY9THjCtcQpYSL8COlkn6jO8tWUwIcHBCZgQmkF8nrcPZ9hV/mc8EjrNDw/N/PyS4eObbWCaEjre61VYBfL9U0NAKzMEEeY15DDsLxwVqTUYbOevbQvhjfdHk"
-            }
-        ]
-    }, 
+    "data": "DPQnUAYaubXrsiCqBQfeAghOnLswg/Cq9E1NKJh0TGiBsgB9I27OHT1x/CCYvtN56vHBJSC+I3dyuQAo9hJBgDUfEJs5T0UdJ5LyEMAfo+IZLI3NOA6bgeV8s4vNT72CzRnQZ9PNX1lgw2OJywAimHwrKQ/R97AgsKP8SdYvt7t2HyA0+8FwciZRODiUFyU8uCMK4ub7OGtZmWBTsDWfsVXSh4pUuzs+DpkcwUgzfddRYhTdg/BDMQRygdH/J5eBKGpvJKRgH94/t730H/tXCmBkYbsvmZIdADGFSp4FqJiLPeSMwppnfu7s8Y8TQEUZuCaAZ9N/WhBvjbowKTVO+Q==", 
     "msg": ""
 }
